@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Move</string>
+    <string name ="start">Start</string>
+    <string name="pause">Pause</string>
+    <string name="reps">Reps:</string>
+    <string name="resume">Resume</string>
+    <string name="sets_remaining">Sets: </string>
+</resources>
